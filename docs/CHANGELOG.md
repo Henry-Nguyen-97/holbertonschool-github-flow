@@ -1,3 +1,3 @@
 ## v1.1.0
-   - Update the introduction and history documents.
-   - Resove merge conflict in the collaboration document on feature/conflict-b branch.
+   - Add a descritive text at the end of the introduction and history documents.
+   - Change the first paragraph of the collaboration document. Resove merge conflict in the collaboration document on feature/conflict-b branch.
