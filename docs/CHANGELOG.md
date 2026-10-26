@@ -1,3 +1,2 @@
 ## v1.1.0
--Add a descriptive text at the end of the introduction and history documents.\
--Change the first paragraph of the collaboration document. Resove merge conflict in the collaboration document on feature/conflict-b branch.
+-Edit docs/collaboration in both feature/conflict-a & feature/conflict-b to create a conflict in file. -Created two branches, edit files in docs/collaboration.md to create intentional conflict.
